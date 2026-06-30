@@ -73,6 +73,3 @@ npm start
 * Difficulty Distribution of Solved Problems
 * Contest Participation Statistics
 
-## Author
-
-**Harisaran Singh**
